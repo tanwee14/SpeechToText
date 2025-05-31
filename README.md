@@ -1,5 +1,4 @@
 
-```markdown
 # 🎙️ Speech-to-Text Converter
 
 This is a simple web-based Speech-to-Text application built using **HTML**, **CSS**, and **JavaScript**. It allows users to convert their speech to text in real time using the Web Speech API.
