@@ -5,9 +5,9 @@ This is a simple web-based Speech-to-Text application built using **HTML**, **CS
 
 ## 🔧 Features
 
-- Converts speech to text live
-- Real-time transcription as you speak
-- Clean and responsive UI
+-  Converts speech to text live
+-  Real-time transcription as you speak
+-  Clean and responsive UI
 
 ## 🛠️ Tech Stack
 
